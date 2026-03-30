@@ -1,0 +1,57 @@
+{
+  "title": "CT.gov Completion-Delay Debt",
+  "slug": "ctgov-completion-delay-debt",
+  "author": "Mahmood Ahmad",
+  "date": "2026-03-29",
+  "path": "C:\\Projects\\ctgov-completion-delay-debt",
+  "type": "methods",
+  "primary_estimand": "2-year no-results rate across registration-to-completion delay buckets among eligible older CT.gov studies",
+  "summary": "A standalone E156 project on how registration-to-completion timing maps onto older-study hiddenness and fast-cycle reporting debt.",
+  "body": "Does ClinicalTrials.gov hiddenness fall as trials take longer from first submission to completion, or do short-cycle studies report just as well? We analysed 249,507 eligible older closed interventional studies from the March 29, 2026 full-registry snapshot and calculated submission-to-completion delay buckets. The project compares two-year no-results rates, ghost-protocol rates, full visibility, and purpose-specific contrasts across registration-to-completion intervals. Studies completed in the same calendar year they were first submitted showed an 85.7 percent no-results rate and a 54.1 percent ghost-protocol rate. Studies with a 6 to 10 year delay fell to 57.6 percent no results and 28.8 percent ghost protocols, with long-lag treatment studies also looking substantially cleaner. Fast-cycle studies therefore look most hidden, suggesting short operational timelines are not translating into faster public reporting. The contrast remains visible across treatment studies and other major purpose groups. Submission-to-completion lag is a registry proxy for operational duration and can reflect backfilled dates, protocol amendments, or changing trial mix.",
+  "sentences": [
+    {
+      "role": "Question",
+      "text": "Does ClinicalTrials.gov hiddenness fall as trials take longer from first submission to completion, or do short-cycle studies report just as well?"
+    },
+    {
+      "role": "Dataset",
+      "text": "We analysed 249,507 eligible older closed interventional studies from the March 29, 2026 full-registry snapshot and calculated submission-to-completion delay buckets."
+    },
+    {
+      "role": "Method",
+      "text": "The project compares two-year no-results rates, ghost-protocol rates, full visibility, and purpose-specific contrasts across registration-to-completion intervals."
+    },
+    {
+      "role": "Primary result",
+      "text": "Studies completed in the same calendar year they were first submitted showed an 85.7 percent no-results rate and a 54.1 percent ghost-protocol rate."
+    },
+    {
+      "role": "Secondary result",
+      "text": "Studies with a 6 to 10 year delay fell to 57.6 percent no results and 28.8 percent ghost protocols, with long-lag treatment studies also looking substantially cleaner."
+    },
+    {
+      "role": "Interpretation",
+      "text": "Fast-cycle studies therefore look most hidden, suggesting short operational timelines are not translating into faster public reporting. The contrast remains visible across treatment studies and other major purpose groups."
+    },
+    {
+      "role": "Boundary",
+      "text": "Submission-to-completion lag is a registry proxy for operational duration and can reflect backfilled dates, protocol amendments, or changing trial mix."
+    }
+  ],
+  "notes": {
+    "app": "CT.gov Completion-Delay Debt dashboard",
+    "data": "249,507 eligible older closed interventional studies grouped by submission-to-completion delay",
+    "code": "https://github.com/mahmood726-cyber/ctgov-completion-delay-debt",
+    "doi": "",
+    "version": "1.0.0",
+    "date": "2026-03-29",
+    "validation": "FULL REGISTRY RUN"
+  },
+  "affiliation": "Tahir Heart Institute",
+  "email": "author@example.com",
+  "references": [
+    "ClinicalTrials.gov API v2. National Library of Medicine. Accessed March 29, 2026.",
+    "Zarin DA, Tse T, Williams RJ, Carr S. Trial reporting in ClinicalTrials.gov. N Engl J Med. 2016;375(20):1998-2004.",
+    "DeVito NJ, Bacon S, Goldacre B. Compliance with legal requirement to report clinical trial results on ClinicalTrials.gov: a cohort study. Lancet. 2020;395(10221):361-369."
+  ]
+}
