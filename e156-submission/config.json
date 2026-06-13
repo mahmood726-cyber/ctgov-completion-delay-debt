@@ -3,7 +3,7 @@
   "slug": "ctgov-completion-delay-debt",
   "author": "Mahmood Ahmad",
   "date": "2026-03-29",
-  "path": "C:\\Projects\\ctgov-analyses/ctgov-completion-delay-debt",
+  "path": "https://github.com/mahmood726-cyber/ctgov-completion-delay-debt",
   "type": "methods",
   "primary_estimand": "2-year no-results rate across registration-to-completion delay buckets among eligible older CT.gov studies",
   "summary": "A standalone E156 project on how registration-to-completion timing maps onto older-study hiddenness and fast-cycle reporting debt.",
